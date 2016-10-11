@@ -3,7 +3,16 @@ A Efficient Serialization and Protocol Library
 
 This is a most efficient and light seralize and protocol between Server and Client implementation.
 
-Support programming languages
+Features:
+	- excel parser
+	- excel cell to object value
+	- binary Seralize
+	- code Generator
+	- serialize data optimization and compression
+	- lower runtime cost
+	- ...
+	
+# Support programming languages
  - C# 
  - Java
  - Rust (doing)
@@ -15,7 +24,7 @@ Support programming languages
  - ...
 
 
-# Todo:
+# Todo
 
 1. Code optimization
 
@@ -23,7 +32,7 @@ Support programming languages
 
 3. Write Demo
 
-# Inspired By:
+# Inspired By
 
 - flatbuffers:https://github.com/google/flatbuffers
 
