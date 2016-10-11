@@ -27,9 +27,9 @@ Features:
 
 # Todo
 
-1. Code optimization
+1. Code Optimization
 
-2. Remove The UnityEngine Api
+2. Remove the UnityEngine Api
 
 3. Write Demo
 
