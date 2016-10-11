@@ -4,13 +4,14 @@ A Efficient Serialization and Protocol Library
 This is a most efficient and light seralize and protocol between Server and Client implementation.
 
 Features:
-	- excel parser
-	- excel cell to object value
-	- binary Seralize
-	- code Generator
-	- serialize data optimization and compression
-	- lower runtime cost
-	- ...
+
+ - Excel parser
+ - Excel cell to object value
+ - Binary Serialize and Deserialize
+ - Code generator
+ - Serialize data optimization and compression
+ - Lower runtime cost
+ - ...
 	
 # Support programming languages
  - C# 
