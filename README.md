@@ -33,6 +33,15 @@ Features:
 
 3. Write Demo
 
+4. More features support:
+	- cross platfom(anroid,iOS),
+	- 7BitEncode,
+	- object reuse,
+	- enum,
+	- customtype(Vector3),
+	- encryption
+	- data compress
+
 # Inspired By
 
 - flatbuffers:https://github.com/google/flatbuffers
