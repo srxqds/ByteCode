@@ -41,6 +41,7 @@ Features:
 	- customtype(Vector3),
 	- encryption
 	- data compress
+	- rule check
 
 # Inspired By
 
