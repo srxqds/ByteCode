@@ -5,6 +5,7 @@ This is a most efficient and light seralize and protocol between Server and Clie
 
 Features:
 
+ - bool,short,int,long,float,string,[],List,Dictionary type supported
  - Excel parser
  - Excel cell to object value
  - Binary Serialize and Deserialize
@@ -12,9 +13,9 @@ Features:
  - Serialize data optimization and compression
  - Lower runtime cost
  - ...
-	
+
 # Support programming languages
- - C# 
+ - C#
  - Java
  - Rust (doing)
  - C++ (doing)
