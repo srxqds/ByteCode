@@ -43,6 +43,8 @@ Features:
 	- encryption
 	- data compress
 	- rule check
+	- load item when use
+	- unload item
 
 # Inspired By
 
