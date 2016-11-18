@@ -35,9 +35,9 @@ Features:
 3. Write Demo
 
 4. More features support:
-	- cross platfom(anroid,iOS),
 	- 7BitEncode,
 	- object reuse,
+	- type nest,
 	- enum,
 	- customtype(Vector3),
 	- encryption
